@@ -1,0 +1,70 @@
+﻿/*Global Variables*/
+ul{
+    display: inline;
+}
+
+li {
+    text-align: center;
+    list-style-type: none;
+}
+
+
+section hr {
+    border: 0;
+    width: 60%;
+    height: 1px;
+    background: #333;
+    background-image: linear-gradient(to right, #ccc, #333, #ccc);
+}
+
+
+header{
+    overflow: hidden;
+}
+
+#profile-picture{
+    width: 13%;
+    height: 100%;
+    display: block;
+    margin: auto;
+    border-radius: 50%;
+}
+
+#name{
+    text-align: center;
+    font-size: 2.5rem;
+    margin-top: 10px;
+    font-weight: 600;
+}
+
+.icons{
+    text-align: center;
+}
+
+.icons a{
+    margin-left: 3px;
+    cursor: pointer;
+    color: black;
+}
+
+#about-section{
+    width: 60%;
+    margin: auto;
+    text-align: center;
+}
+
+#done-section{
+    width: 60%;
+    margin: auto;
+    text-align: center;
+}
+
+.title{
+    font-size: 2rem;
+    color: blue;
+}
+
+.role {
+    font-size: 1.5rem;
+    color: #39C16C;
+}
